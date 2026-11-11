@@ -1,0 +1,14 @@
+.gradle/
+.kotlin/
+build/
+**/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Secrets and local configuration
+.env
+.env.*
+secrets.properties
+local-secrets.properties
