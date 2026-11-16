@@ -132,7 +132,7 @@ private fun VitalisDashboard() {
             Spacer(Modifier.height(8.dp))
 
             Text(
-                text = "Focus on what\\nmatters.",
+                text = "Focus on what\nmatters.",
                 color = MainText,
                 fontSize = 32.sp,
                 lineHeight = 39.sp,
